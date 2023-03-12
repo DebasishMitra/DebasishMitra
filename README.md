@@ -7,5 +7,5 @@
 
 - ✉️ Discord 🆔- DebasishMitra#1470
 
-- 💬 Ask me about :- About me What's your use Don't waste your time (time=Money) 
+- 💬 Ask me about :- About me What's your know Don't waste your time (time=Money) 
 
