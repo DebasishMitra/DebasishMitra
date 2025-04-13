@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastDownloader - Download Files Quickly</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #35424a;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .download-section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .btn {
+            display: inline-block;
+            background: #35424a;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #35424a;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>FastDownloader</h1>
+            <p>Download files quickly and securely</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="download-section">
+            <h2>Download Files</h2>
+            <div class="search-box">
+                <input type="text" placeholder="Search files..." id="searchInput">
+                <button onclick="searchFiles()">Search</button>
+            </div>
+            
+            <div id="fileList">
+                <!-- Files will be listed here -->
+                <div class="file-item">
+                    <h3>Sample File 1</h3>
+                    <p>Description of file 1</p>
+                    <a href="path/to/file1.zip" class="btn">Download</a>
+                </div>
+                
+                <div class="file-item">
+                    <h3>Sample File 2</h3>
+                    <p>Description of file 2</p>
+                    <a href="path/to/file2.zip" class="btn">Download</a>
+                </div>
+            </div>
+        </section>
+        
+        <section class="download-section">
+            <h2>URL Downloader</h2>
+            <p>Enter a URL to download content:</p>
+            <input type="text" placeholder="https://example.com/file.mp4" id="urlInput">
+            <button onclick="downloadFromUrl()" class="btn">Download</button>
+            <div id="downloadProgress"></div>
+        </section>
+    </div>
+
+    <footer>
+        <p>FastDownloader &copy; 2023 | Only download content you have rights to</p>
+    </footer>
+
+    <script>
+        function searchFiles() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const fileItems = document.querySelectorAll('.file-item');
+            
+            fileItems.forEach(item => {
+                const text = item.textContent.toLowerCase();
+                if (text.includes(searchTerm)) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+        
+        function downloadFromUrl() {
+            const url = document.getElementById('urlInput').value;
+            if (!url) {
+                alert('Please enter a valid URL');
+                return;
+            }
+            
+            // In a real implementation, you would need server-side code to handle the download
+            document.getElementById('downloadProgress').innerHTML = 
+                '<p>Downloading from: ' + url + '</p><p>This is a demo. A real implementation would require server-side processing.</p>';
+        }
+    </script>
+</body>
+</html>
