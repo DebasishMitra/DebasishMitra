@@ -3,8 +3,8 @@
 </div>  
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Debasish Mitra</h1>
-<center> <img  align="center" src="https://count.getloli.com/@Debasish?name=Debasish&theme=rule34&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=1&prefix=127001" alt="debasish" /> </center>
 <h3 align="center">Unemployed</h3>
+<center> <img  align="center" src="https://count.getloli.com/@Debasish?name=Debasish&theme=rule34&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=1&prefix=127001" alt="debasish" /> </center>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=DebasishMitra">
@@ -13,7 +13,7 @@
 </p>
 
 
-## 📌 About Me  <table><img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"></table>
+## 📌 About Me <b> <right> <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"> </right>
 - 🌍  I'm based in LocalHost
 - 🔭 I’m currently working on - 127.0.0.1
 - 🖥️  See my portfolio at localhost
