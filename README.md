@@ -9,10 +9,17 @@
 
 
 ## 📌 About Me
-- 🔭 I’m currently working on - ********
-- ✉️ Email - mr.debasishmitra@yahoo.com
+- 🌍  I'm based in LocalHost
+- 🔭 I’m currently working on - 127.0.0.1
+- 🖥️  See my portfolio at localhost
+- ✉️  You can contact me at mr.debasishmitra@yahoo.com
 - ✉️ Discord 🆔- DebasishMitra#7452
+- 🧠  I'm learning How to ignore ppl
 - 💬 Ask me about :- What do you know about me? Don't waste your time, and thanks for viewing.
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=trilokia"/>       
+</p>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 
