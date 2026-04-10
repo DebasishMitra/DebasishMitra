@@ -14,7 +14,8 @@
 
 
 
-## 📌 About Me  <right> <img align="right" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"> </right>
+## 📌 About Me  
+<right> <img align="right" src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"> </right>
 - 🌍  I'm based in LocalHost
 - 🔭 I’m currently working on - 127.0.0.1
 - 🖥️  See my portfolio at localhost
