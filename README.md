@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/DebasishMitra/DebasishMitra/blob/a5718294c424483b4bc62d60afa35b7e44c4194f/dog.gif" alt="Banner" width="100%" height="50%" />
+<img src="https://github.com/DebasishMitra/DebasishMitra/blob/a5718294c424483b4bc62d60afa35b7e44c4194f/dog.gif" alt="Banner" width="100%" height="30%" />
 </div>  
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Debasish Mitra</h1>
