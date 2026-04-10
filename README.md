@@ -37,6 +37,8 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DebasishMitra&theme=github_dark&radius=10" alt="DebasishMitra's Activity Graph" />
 </p>
 
+<img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
+
 
 ## 🛠️ Languages & Tools
 
@@ -58,10 +60,7 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <a href="https://github.com/DebasishMitra">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DebasishMitra&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
+
 </p>
 
 ![Top language](https://stats.pphat.top/languages?username=DebasishMitra)
@@ -79,7 +78,6 @@
 <p align="center"><a href="https://www.buymeacoffee.com/debasishmitra" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
-<img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 <img src="https://i.pinimg.com/originals/31/79/3b/31793bea5b0655dd21447c8981c81b08.gif" alt="Banner" width="100%" />
 <img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
