@@ -3,6 +3,7 @@
 </div>  
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Debasish Mitra</h1>
+ <img  align="center" src="https://count.getloli.com/@Debasish?name=Debasish&theme=rule34&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=1&prefix=127001" alt="debasish" />
 <h3 align="center">Unemployed</h3>
 
 <p align="center">
@@ -70,7 +71,7 @@
 <p align="center"><a href="https://www.linkedin.com/debasishmitra7452/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/IAm__Debasish" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:mr.debasishmitra@yahoo.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="delete.work.gd" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 ## 💬 Quote
-> <img  align="center" src="https://count.getloli.com/@Debasish?name=Debasish&theme=rule34&padding=1&offset=0&align=center&scale=1&pixelated=1&darkmode=1&prefix=127001" alt="debasish" />
+>
   <p> <center><img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"></center>
 
 
